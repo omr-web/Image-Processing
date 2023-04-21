@@ -1,3 +1,0 @@
-/home/omer/omr-web/Image-Processing/build/CMakeFiles/Image.dir
-/home/omer/omr-web/Image-Processing/build/CMakeFiles/edit_cache.dir
-/home/omer/omr-web/Image-Processing/build/CMakeFiles/rebuild_cache.dir
